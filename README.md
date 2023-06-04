@@ -1,6 +1,8 @@
 # Portfolio with react and tailwind
 
 
+**Live : https://647cb0a45a670c3c2ac52d26--singular-lily-9e563e.netlify.app/**
+
 **React : https://create-react-app.dev/docs/getting-started**
 
 **Tailwind : https://tailwindcss.com/**
